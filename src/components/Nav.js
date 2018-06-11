@@ -31,6 +31,7 @@ export default class Nav extends Component {
           /section1/page11?name=woohee&age=111
         </L>
         <L to="/section1/page11#xxxx">/section1/page11#xxxx</L>
+        <L to="/section1/page11/qwdqwdqw">/section1/page11/qwdqwdqw</L>
         <hr />
       </div>
       // {/* </Router> */}
